@@ -13,5 +13,5 @@ Event Dispatcher is a simple implementation of an event-driven architecture in P
 To install the package, use:
 
 ```bash
-pip install event_dispatcher
-
+pip install edispatcher
+```
